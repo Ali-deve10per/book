@@ -1,0 +1,43 @@
+ /* Ваши стили */
+ body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    color: black;
+}
+
+.header {
+    background-color: #333;
+    color: #000000;
+    padding: 10px 0;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.nav-link {
+    color: #0a0a0a !important;
+    text-decoration: none;
+}
+
+.nav-link:hover {
+    text-decoration: underline;
+}
+
+.footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+    margin-top: 20px;
+}
+
+.footer p {
+    margin: 0;
+}
+
+.grid-max-width {
+    max-width: 1200px;
+    margin: 0 auto;
+}
